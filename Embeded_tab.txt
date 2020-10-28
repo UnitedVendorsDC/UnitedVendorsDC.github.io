@@ -1,0 +1,8 @@
+How to place a live Tableau dashboard on a web page:
+
+1. Create a Tableau public account 
+2. Open Tableau dashboard and save it to public account
+3. Privacy settings on Tableau public need to be adjusted.
+4. Share embedded code, command C and include in html file
+
+https://www.youtube.com/watch?v=wJ2CHIJalNU
